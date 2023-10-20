@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-03 16:58+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: patterns/footer.php:26 patterns/front-page.php:212 patterns/page.php:35
+msgid "Street 238,52 tempor"
+msgstr ""
+
+#: patterns/footer.php:26 patterns/front-page.php:212 patterns/page.php:35
+msgid "Donecultricies mattis nulla,"
+msgstr ""
+
+#: patterns/footer.php:26 patterns/front-page.php:212 patterns/page.php:35
+msgid "suscipitrisus tristique ut."
+msgstr ""
+
+#: patterns/footer.php:30 patterns/front-page.php:216 patterns/page.php:39
+msgid "Phone : 9873529473"
+msgstr ""
+
+#: patterns/footer.php:30 patterns/front-page.php:216 patterns/page.php:39
+msgid "Email : kindergarten@gmail.coom"
+msgstr ""
+
+#: patterns/footer.php:30 patterns/front-page.php:216 patterns/page.php:39
+msgid "Web : kindergarten.net"
+msgstr ""
+
+#: patterns/footer.php:38 patterns/front-page.php:222 patterns/page.php:45
+msgid "Navigation"
+msgstr ""
+
+#: patterns/footer.php:48 patterns/front-page.php:230 patterns/page.php:53
+msgid "Opening Hours"
+msgstr ""
+
+#: patterns/footer.php:52 patterns/front-page.php:234 patterns/page.php:57
+msgid "Monday - Saturday"
+msgstr ""
+
+#: patterns/footer.php:52
+msgid "08:30am to 6:30pm"
+msgstr ""
+
+#: patterns/footer.php:58 patterns/front-page.php:239 patterns/page.php:62
+msgid "Follow US"
+msgstr ""
+
+#: patterns/front-page.php:21 patterns/kinder-banner.php:14
+msgid "KINDERGARTEN"
+msgstr ""
+
+#: patterns/front-page.php:25
+msgid "Your Childrens are safe With Us"
+msgstr ""
+
+#: patterns/front-page.php:31
+msgid "Contact US"
+msgstr ""
+
+#: patterns/front-page.php:42
+msgid "The best place for kids"
+msgstr ""
+
+#: patterns/front-page.php:51
+msgid "Know more..."
+msgstr ""
+
+#: patterns/front-page.php:68
+msgid "OUR TEACHERS"
+msgstr ""
+
+#: patterns/front-page.php:72
+msgid "OUR EXPAND TEACHERS"
+msgstr ""
+
+#: patterns/front-page.php:88 patterns/front-page.php:104
+#: patterns/front-page.php:120
+msgid "staff"
+msgstr ""
+
+#: patterns/front-page.php:136
+msgid "OUR GALLERY"
+msgstr ""
+
+#: patterns/front-page.php:185
+msgid "What parents Say"
+msgstr ""
+
+#: patterns/kinder-banner.php:18
+msgid "Your Children are safe With Us"
+msgstr ""
+
+#: patterns/kinder-banner.php:25
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/kinder-cover-image-with-column-text.php:18
+msgid "ACTIVITIES"
+msgstr ""
+
+#: patterns/kinder-cover-image-with-column-text.php:32
+msgid "SPORTS GAMES"
+msgstr ""
+
+#: patterns/kinder-cover-image-with-column-text.php:36
+#: patterns/kinder-cover-image-with-column-text.php:52
+#: patterns/kinder-cover-image-with-column-text.php:68
+msgid ""
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, "
+"adipisci velit..."
+msgstr ""
+
+#: patterns/kinder-cover-image-with-column-text.php:48
+msgid "MUSICAL LESSONS"
+msgstr ""
+
+#: patterns/kinder-cover-image-with-column-text.php:64
+msgid "LEARNING LESSONS"
+msgstr ""
